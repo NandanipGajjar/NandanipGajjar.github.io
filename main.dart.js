@@ -40828,7 +40828,7 @@ s.aD()}}
 A.hK.prototype={
 a4(){return new A.LK(B.z)}}
 A.LK.prototype={
-I(a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0="icons-server.png",a1="Comprehensive Services",a2="user-setting.png",a3="Engineering-Led Methodology",a4="swiftTengibleResult.png",a5="Swift And Tangible Results",a6="process-icon.png",a7="Value-Driven Operations",a8=t.w
+I(a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0="images/icons-server.png",a1="Comprehensive Services",a2="images/user-setting.png",a3="Engineering-Led Methodology",a4="images/swiftTengibleResult.png",a5="Swift And Tangible Results",a6="images/process-icon.png",a7="Value-Driven Operations",a8=t.w
 b.d=A.f(a9,a,a8).w.a.b
 b.e=A.f(a9,a,a8).w.a.a
 b.f=A.f(a9,a,a8).w.a.geM()
