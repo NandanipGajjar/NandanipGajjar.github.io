@@ -44711,7 +44711,7 @@ if(!A.j(n)){n=a4.c
 n.toString
 n=A.f(n,a5,b2).w.a.a>=2600}else n=!0
 m=a4.d
-m=A.o(a5,A.a5("assets/aboutuss.png",B.h,a5,a5,a5,n?m*0.6:m*0.3,a5,a5),B.e,B.f,a5,a5,a5,a5,a5,a5,a5,a5,a5)
+m=A.o(a5,A.a5("images/aboutuss.png",B.h,a5,a5,a5,n?m*0.6:m*0.3,a5,a5),B.e,B.f,a5,a5,a5,a5,a5,a5,a5,a5,a5)
 l=A.U(A.a([A.i("Leadership team",a5,a5,a5,A.e(a5,a5,B.D,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5,a5,a5),a5,a5),A.c(a5,a5,10),A.c(A.b2(B.D,3),a5,40)],p),B.i,B.m,B.c)
 n=a4.c
 n.toString
@@ -49280,7 +49280,7 @@ A.f(a,r,q).toString
 A.f(a,r,q).toString
 this.f=A.f(a,r,q).w.a.gf5()
 if(A.j(a)||A.f(a,r,q).w.a.a>=2600)s=new A.KS(A.c(r,r,r),new A.K(1/0,0),r)
-else{s=A.kH(!1,!0,new A.ai(B.eR,A.a5("assets/cd-logo.jpg",B.a5,r,r,r,50,r,r),r),r,!0,r,r,r,r,r,r,r,r,r,new A.anc(a),r,r,r,r)
+else{s=A.kH(!1,!0,new A.ai(B.eR,A.a5("images/cd-logo.jpg",B.a5,r,r,r,50,r,r),r),r,!0,r,r,r,r,r,r,r,r,r,new A.anc(a),r,r,r,r)
 s=new A.w3(s,!1,3,B.f,B.f,new A.DA(r,r,1/0,56),200,r)}q=A.j(a)||A.f(a,r,q).w.a.a>=2600?A.c(r,r,r):new A.yT(r)
 return A.Ad(!0,A.ayP(s,this.a.c,new A.I9(q,r)),B.a3,!0)}}
 A.anc.prototype={
@@ -49311,7 +49311,7 @@ s=g.e
 d=d?s*0.1:s*0.02
 s=t.w
 r=A.f(a,f,s).w
-q=A.eQ(A.kH(!1,!0,new A.ai(B.eR,A.a5("assets/cd-logo.jpg",B.a5,f,f,f,50,f,f),f),f,!0,f,f,f,f,f,f,f,f,f,new A.aoS(a),f,f,f,f),1)
+q=A.eQ(A.kH(!1,!0,new A.ai(B.eR,A.a5("images/cd-logo.jpg",B.a5,f,f,f,50,f,f),f),f,!0,f,f,f,f,f,f,f,f,f,new A.aoS(a),f,f,f,f),1)
 s=A.j(a)||A.f(a,f,s).w.a.a>=2600?0:3
 p=g.d
 o=A.aM(B.FC,B.w,f,38)
@@ -49619,7 +49619,7 @@ $S:2}
 A.yT.prototype={
 a6(){return new A.R3(B.z)}}
 A.R3.prototype={
-I(a){var s,r,q,p,o,n,m,l,k=null,j="Adopt Cloud",i="Build Cloud Foundation",h=t.p,g=A.o(k,new A.ai(B.aH,A.v(A.a([A.o(k,A.c3(B.b4,A.a([new A.ai(B.eR,A.a5("assets/cd-logo.jpg",B.h,k,k,k,40,k,k),k),A.d1(k,A.at2(k,A.aM(B.Fx,k,k,k),k,new A.akV(a),k,k),k,k,k,0,10,k)],h),B.M,B.a2),B.e,k,k,k,k,k,k,k,k,k,1/0)],h),B.o,k,B.j,B.c),k),B.e,k,k,B.AS,k,150,k,k,k,k,k),f=A.a8(a).tc(B.O),e=A.kH(!1,!0,A.i("Services",k,k,k,A.e(k,k,k,k,k,k,k,k,k,k,k,k,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,!0,k,k,k,k,k,k,k,k,k,new A.akW(a),k,k,k,k),d=A.e1(B.aZ)
+I(a){var s,r,q,p,o,n,m,l,k=null,j="Adopt Cloud",i="Build Cloud Foundation",h=t.p,g=A.o(k,new A.ai(B.aH,A.v(A.a([A.o(k,A.c3(B.b4,A.a([new A.ai(B.eR,A.a5("images/cd-logo.jpg",B.h,k,k,k,40,k,k),k),A.d1(k,A.at2(k,A.aM(B.Fx,k,k,k),k,new A.akV(a),k,k),k,k,k,0,10,k)],h),B.M,B.a2),B.e,k,k,k,k,k,k,k,k,k,1/0)],h),B.o,k,B.j,B.c),k),B.e,k,k,B.AS,k,150,k,k,k,k,k),f=A.a8(a).tc(B.O),e=A.kH(!1,!0,A.i("Services",k,k,k,A.e(k,k,k,k,k,k,k,k,k,k,k,k,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),k,!0,k,k,k,k,k,k,k,k,k,new A.akW(a),k,k,k,k),d=A.e1(B.aZ)
 d=A.o(k,new A.ai(B.aK,A.aM(B.db,k,k,15),k),B.e,k,k,new A.ag(k,k,d,k,k,k,B.A),k,k,k,k,k,k,k)
 s=A.i(j,k,k,k,k,k,k)
 r=A.e1(B.aZ)
@@ -49758,7 +49758,7 @@ A.akH.prototype={
 $1(a){return new A.e3(null)},
 $S:18}
 A.eC.prototype={
-a6(){return new A.Oy(new A.Y3(new A.bV(new A.aK($.aG,t.wC),t.Fe)),A.a(["assets/ACMEMinds-logo.png","assets/Idea-bridge-Logo.png","assets/LoadShare-Logo.png","assets/ParentPayGroup.png","assets/PlusInnovation-Logo.png","assets/SunPower-Logo.png","assets/Unique-Solutions.png","assets/VoniGo-Logo.png"],t.s),B.z)}}
+a6(){return new A.Oy(new A.Y3(new A.bV(new A.aK($.aG,t.wC),t.Fe)),A.a(["images/ACMEMinds-logo.png","images/Idea-bridge-Logo.png","images/LoadShare-Logo.png","images/ParentPayGroup.png","images/PlusInnovation-Logo.png","images/SunPower-Logo.png","images/Unique-Solutions.png","images/VoniGo-Logo.png"],t.s),B.z)}}
 A.Oy.prototype={
 I(a){var s=null
 return A.o(s,this.ags(a),B.e,B.f,s,s,s,s,s,s,s,s,s)},
