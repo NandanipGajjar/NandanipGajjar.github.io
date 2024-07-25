@@ -37407,7 +37407,7 @@ if(!A.j(a0)){a0=a4.c
 a0.toString
 b2=A.f(a0,a5,b2).w.a.a>=2600}else b2=!0
 return new A.e6(A.m(a5,A.eU(A.a([s,r,q,new A.ei(a5),o,k,m,i,j,n,f,e,A.m(l,A.R(A.a([A.u(A.a([g,A.R(A.a([d,c,A.c(A.i("The must read collection of blogs on software development and testing featuring articles on API testing tools, test automation, achieving excellence in software engineering and more.",a5,a5,a5,A.d(a5,a5,a,a5,a5,a5,a5,a5,a6,a5,a5,b2?16:10,a5,a5,a5,a5,a5,!0,a5,0.5,a5,a5,a5,a5,a5,a5),B.x,a5),a5,b)],p),B.i,B.j,B.c)],p),B.o,a5,B.j,B.c)],p),B.i,B.m,B.c),B.d,h,a5,a5,a5,a5,a5,new A.x(5,5,5,5),a5,a5,a5),A.c(a5,20,a5)],p),a5,!1),B.d,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5),a5)},
-TK(){var s,r,q,p,o,n,m=this,l=null,k="Arial",j=A.a3("cd-home.jpg",B.h,l,l,l,l,l,l),i=m.c
+TK(){var s,r,q,p,o,n,m=this,l=null,k="Arial",j=A.a3("images/cd-home.jpg",B.h,l,l,l,l,l,l),i=m.c
 i.toString
 i=A.f(i,l,t.w).w
 s=A.d(l,l,B.l,l,l,l,l,l,k,l,l,m.f*0.04,l,l,B.r,l,l,!0,l,1,l,l,l,l,l,l)
