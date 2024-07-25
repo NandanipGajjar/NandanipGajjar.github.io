@@ -37232,7 +37232,7 @@ A.p9.prototype={}
 A.lJ.prototype={
 a4(){return new A.O6(new A.bD(null,t.am),B.z)}}
 A.O6.prototype={
-I(b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Arial",a7="As a Software Development and QA expert, We help organizations adjust to the\nexpanding significance of current market.",a8="phone-image.png",a9=u.N,b0="Help Desk 24h/7",b1="8484914105",b2=t.w
+I(b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4=this,a5=null,a6="Arial",a7="As a Software Development and QA expert, We help organizations adjust to the\nexpanding significance of current market.",a8="images/phone-image.png",a9=u.N,b0="Help Desk 24h/7",b1="8484914105",b2=t.w
 a4.d=A.f(b3,a5,b2).w.a.b
 a4.e=A.f(b3,a5,b2).w.a.a
 a4.f=A.f(b3,a5,b2).w.a.geM()
@@ -37273,7 +37273,7 @@ if(!A.j(n)){n=a4.c
 n.toString
 n=A.f(n,a5,b2).w.a.a>=2600}else n=!0
 m=a4.d
-m=A.m(a5,A.a3("assets/aboutuss.png",B.h,a5,a5,a5,n?m*0.6:m*0.3,a5,a5),B.d,B.e,a5,a5,a5,a5,a5,a5,a5,a5,a5)
+m=A.m(a5,A.a3("images/aboutuss.png",B.h,a5,a5,a5,n?m*0.6:m*0.3,a5,a5),B.d,B.e,a5,a5,a5,a5,a5,a5,a5,a5,a5)
 l=A.R(A.a([A.i("Leadership team",a5,a5,a5,A.d(a5,a5,B.D,a5,a5,a5,a5,a5,a5,a5,a5,16,a5,a5,a5,a5,a5,!0,a5,a5,a5,a5,a5,a5,a5,a5),a5,a5),A.c(a5,a5,10),A.c(A.b_(B.D,3),a5,40)],p),B.i,B.m,B.c)
 n=a4.c
 n.toString
@@ -37525,7 +37525,7 @@ h=A.c(k,h.d*0.001,k)
 n=B.a7[b]
 m=A.U(79,79,103,1)
 l=t.p
-return A.m(k,A.bY(B.aZ,A.a([A.cT(k,A.m(k,A.dq(new A.af(g,A.u(A.a([s,q,r,p,o,h,A.i(n.d,k,k,k,A.d(k,k,m,k,k,k,k,k,j,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?16:10,k,k,k,k,k,!0,k,0.5,k,k,k,k,k,k),B.T,k)],l),B.i,k,B.j,B.c),k),k,B.e,k,k,k,k),B.d,k,k,k,k,k,k,B.bw,k,k,i),k,k,k,k,k,k),A.c(k,20,k),A.cT(k,A.a3("get-quote.png",B.h,B.bu,k,k,60,k,k),k,k,50,k,-10,k)],l),B.M,B.a_),B.d,k,k,k,k,k,k,k,k,k,k)},
+return A.m(k,A.bY(B.aZ,A.a([A.cT(k,A.m(k,A.dq(new A.af(g,A.u(A.a([s,q,r,p,o,h,A.i(n.d,k,k,k,A.d(k,k,m,k,k,k,k,k,j,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?16:10,k,k,k,k,k,!0,k,0.5,k,k,k,k,k,k),B.T,k)],l),B.i,k,B.j,B.c),k),k,B.e,k,k,k,k),B.d,k,k,k,k,k,k,B.bw,k,k,i),k,k,k,k,k,k),A.c(k,20,k),A.cT(k,A.a3("images/get-quote.png",B.h,B.bu,k,k,60,k,k),k,k,50,k,-10,k)],l),B.M,B.a_),B.d,k,k,k,k,k,k,k,k,k,k)},
 $S:20}
 A.afA.prototype={
 $2(a,b){var s,r,q,p,o,n,m=null,l=A.j(a)||A.f(a,m,t.w).w.a.a>=2600,k=this.a,j=k.e
@@ -38988,7 +38988,7 @@ n=l.c
 n.toString
 n=new A.af(B.aD,A.u(A.a([e,s,r,q,p,o,l.cS(n,f,new A.acW(l))],t.p),B.o,k,B.j,B.c),k)
 e=n}return A.m(k,e,B.d,B.aU,k,k,k,k,k,new A.x(0,20,0,20),k,k,k)},
-aj2(){var s,r,q,p,o,n,m,l=this,k=null,j="Testing-Automation.jpeg",i="Testing Automation",h="Arial",g="We automate testing processes, integrating them into CI/CD pipelines for improved software quality. Our expertise includes selecting testing tools and frameworks, reducing errors, and ensuring efficient and reliable software delivery.",f="Learn More",e=l.c
+aj2(){var s,r,q,p,o,n,m,l=this,k=null,j="images/Testing-Automation.jpeg",i="Testing Automation",h="Arial",g="We automate testing processes, integrating them into CI/CD pipelines for improved software quality. Our expertise includes selecting testing tools and frameworks, reducing errors, and ensuring efficient and reliable software delivery.",f="Learn More",e=l.c
 e.toString
 if(!A.j(e)){e=l.c
 e.toString
@@ -39647,7 +39647,7 @@ if(q===$){s=A.bZ(B.b5,r.gHA(),null)
 r.y!==$&&A.aa()
 r.y=s
 q=s}return q},
-I(d7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5=this,a6=null,a7="Product Development Services",a8="Arial",a9="Our Product Development service leverages cloud technology to enable rapid prototyping, agile development, and continuous delivery. We collaborate closely with your team to understand your product vision, create scalable architectures, and build robust cloud-native applications. With a focus on collaboration, agility, and cutting-edge technologies, our experienced team will guide you through the entire product development lifecycle, from concept to launch. We help you accelerate time-to-market and achieve your business objectives.ensuring a seamless and successful journey.",b0="Schedule a Quick Call",b1="images/cloudFoundation.jpg",b2="Discovery And Requirement Gathering",b3="Our team collaborates with you to understand your vision, target audience, and specific requirements, setting the foundation for product development.",b4="Agile Development Sprints",b5="We employ agile methodologies, breaking down the development process into iterative sprints, ensuring regular feedback, and continuous improvement.",b6="Prototyping And Design",b7="We create prototypes and wireframes to visualize the product's functionality and user experience, collaborating with you to refine the design and user interface.",b8="Development And Testing",b9="Our skilled developers bring your product to life, ensuring seamless integration of features and functionalities. Rigorous testing and quality assurance processes are followed throughout development to deliver a robust and reliable product.",c0="cloud-services.png",c1="EXCLUSIVE ",c2="FEATURES",c3="exclusiveFeatures.png",c4="Customized Solutions",c5="Expert Guidance",c6="Why CodeElan",c7=u.W,c8="images/Logo-Inverted.jpg",c9="Testimonials",d0="We are very glad to get client review.",d1=u.D,d2="phone-image.png",d3=u.N,d4="Help Desk 24h/7",d5="8484914105",d6=t.w
+I(d7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5=this,a6=null,a7="Product Development Services",a8="Arial",a9="Our Product Development service leverages cloud technology to enable rapid prototyping, agile development, and continuous delivery. We collaborate closely with your team to understand your product vision, create scalable architectures, and build robust cloud-native applications. With a focus on collaboration, agility, and cutting-edge technologies, our experienced team will guide you through the entire product development lifecycle, from concept to launch. We help you accelerate time-to-market and achieve your business objectives.ensuring a seamless and successful journey.",b0="Schedule a Quick Call",b1="images/cloudFoundation.jpg",b2="Discovery And Requirement Gathering",b3="Our team collaborates with you to understand your vision, target audience, and specific requirements, setting the foundation for product development.",b4="Agile Development Sprints",b5="We employ agile methodologies, breaking down the development process into iterative sprints, ensuring regular feedback, and continuous improvement.",b6="Prototyping And Design",b7="We create prototypes and wireframes to visualize the product's functionality and user experience, collaborating with you to refine the design and user interface.",b8="Development And Testing",b9="Our skilled developers bring your product to life, ensuring seamless integration of features and functionalities. Rigorous testing and quality assurance processes are followed throughout development to deliver a robust and reliable product.",c0="images/cloud-services.png",c1="EXCLUSIVE ",c2="FEATURES",c3="images/exclusiveFeatures.png",c4="Customized Solutions",c5="Expert Guidance",c6="Why CodeElan",c7=u.W,c8="images/Logo-Inverted.jpg",c9="Testimonials",d0="We are very glad to get client review.",d1=u.D,d2="images/phone-image.png",d3=u.N,d4="Help Desk 24h/7",d5="8484914105",d6=t.w
 a5.d=A.f(d7,a6,d6).w.a.b
 a5.e=A.f(d7,a6,d6).w.a.a
 a5.f=A.f(d7,a6,d6).w.a.geM()
@@ -40023,7 +40023,7 @@ o=A.m(r,A.u(A.a([A.i(p.b,r,r,r,A.d(r,r,o,r,r,r,r,r,"Arial",r,r,A.j(a)||A.f(a,r,t
 p=A.a([0.55,0.55],t.n)
 p=A.m(B.a2,r,B.d,r,r,new A.ad(r,r,r,r,r,new A.ek(B.dl,B.bJ,B.bg,A.a([A.U(235,235,235,1),B.e],t.O),p,r),B.A),r,20,r,r,r,r,20)
 s=n.d
-return A.m(r,A.u(A.a([o,p,A.c(r,s*0.01,r),A.R(A.a([A.eg(B.e,new A.af(B.aH,A.eh(A.m(r,A.a3("Male-User.png",B.bs,r,r,r,s*0.1,r,r),B.d,B.bu,r,r,r,r,r,r,r,r,r)),r),40),A.c(r,r,n.e*0.015),A.u(A.a([A.i(B.a7[b].c,r,r,r,A.d(r,r,r,r,r,r,r,r,r,r,r,20,r,r,B.r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.c(r,n.d*0.005,r),A.i(B.a7[b].d,r,r,r,A.d(r,r,r,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],m),B.o,r,B.j,B.c)],m),B.i,B.j,B.c)],m),B.o,r,B.j,B.c),B.d,q,r,r,r,r,r,new A.x(10,10,10,10),r,r,r)},
+return A.m(r,A.u(A.a([o,p,A.c(r,s*0.01,r),A.R(A.a([A.eg(B.e,new A.af(B.aH,A.eh(A.m(r,A.a3("images/Male-User.png",B.bs,r,r,r,s*0.1,r,r),B.d,B.bu,r,r,r,r,r,r,r,r,r)),r),40),A.c(r,r,n.e*0.015),A.u(A.a([A.i(B.a7[b].c,r,r,r,A.d(r,r,r,r,r,r,r,r,r,r,r,20,r,r,B.r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.c(r,n.d*0.005,r),A.i(B.a7[b].d,r,r,r,A.d(r,r,r,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],m),B.o,r,B.j,B.c)],m),B.i,B.j,B.c)],m),B.o,r,B.j,B.c),B.d,q,r,r,r,r,r,new A.x(10,10,10,10),r,r,r)},
 $S:20}
 A.aiL.prototype={
 $0(){var s=null,r=this.a
@@ -40392,7 +40392,7 @@ h=A.c(k,h.d*0.001,k)
 n=B.a7[b]
 m=A.U(79,79,103,1)
 l=t.p
-return A.m(k,A.bY(B.aZ,A.a([A.cT(k,A.m(k,A.dq(new A.af(g,A.u(A.a([s,q,r,p,o,h,A.i(n.d,k,k,k,A.d(k,k,m,k,k,k,k,k,j,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?16:10,k,k,k,k,k,!0,k,0.5,k,k,k,k,k,k),B.T,k)],l),B.i,k,B.j,B.c),k),k,B.e,k,k,k,k),B.d,k,k,k,k,k,k,B.bw,k,k,i),k,k,k,k,k,k),A.c(k,20,k),A.cT(k,A.a3("get-quote.png",B.h,B.bu,k,k,60,k,k),k,k,50,k,-10,k)],l),B.M,B.a_),B.d,k,k,k,k,k,k,k,k,k,k)},
+return A.m(k,A.bY(B.aZ,A.a([A.cT(k,A.m(k,A.dq(new A.af(g,A.u(A.a([s,q,r,p,o,h,A.i(n.d,k,k,k,A.d(k,k,m,k,k,k,k,k,j,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?16:10,k,k,k,k,k,!0,k,0.5,k,k,k,k,k,k),B.T,k)],l),B.i,k,B.j,B.c),k),k,B.e,k,k,k,k),B.d,k,k,k,k,k,k,B.bw,k,k,i),k,k,k,k,k,k),A.c(k,20,k),A.cT(k,A.a3("images/get-quote.png",B.h,B.bu,k,k,60,k,k),k,k,50,k,-10,k)],l),B.M,B.a_),B.d,k,k,k,k,k,k,k,k,k,k)},
 $S:20}
 A.ai_.prototype={
 $1(a){if(a.n(0,B.F))return B.e
@@ -40430,7 +40430,7 @@ if(q===$){s=A.bZ(B.b5,r.gzB(),null)
 r.y!==$&&A.aa()
 r.y=s
 q=s}return q},
-I(e5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5=this,a6=null,a7="Managed Observability Services",a8="Arial",a9="Achieving deep visibility into your cloud infrastructure and applications is crucial for effective performance monitoring, issue detection, and troubleshooting. Our Managed Observability service combines state-of-the-art monitoring tools and expert analysis to provide comprehensive insights into your cloud environment. We proactively monitor key metrics, detect anomalies, and generate actionable insights to optimize performance, improve efficiency, and ensure a seamless user experience.",b0="Schedule a Quick Call",b1="images/5pillar.jpg",b2="Needs Assessment",b3="We conduct an in-depth analysis of your infrastructure, applications, and specific business requirements to understand your observability needs and define the appropriate monitoring and logging strategies.",b4="Tool Selection And Configuration",b5="Based on the assessment, we select and configure the best-suited observability tools and platforms, tailored to your environment and objectives, ensuring seamless integration and data collection.",b6="Monitoring Implementation",b7="We deploy monitoring agents, configure alerts and thresholds, and set up data collection mechanisms to gather real-time data on various metrics, logs, and events across your cloud infrastructure.",b8="Continuous Monitoring And Analysis",b9="Our team continuously monitors the collected data, performs analysis, and responds to alerts, applying their expertise to identify and address any performance issues or potential bottlenecks.",c0="cloud-services.png",c1="EXCLUSIVE ",c2="FEATURES",c3="Skilled Observability Experts",c4="Our team consists of highly skilled observability experts with extensive experience in managing and optimizing cloud infrastructure, ensuring accurate monitoring and effective incident management.",c5="exclusiveFeatures.png",c6="Proactive Issue Resolution",c7="We adopt a proactive approach to identify and resolve issues before they impact your operations, minimizing downtime and maximizing system performance",c8="Cost Optimization",c9=u.z,d0="Scalable And Customizable Solutions",d1="Our managed observability services are scalable to accommodate your evolving needs, and we tailor our solutions to align with your specific infrastructure, applications, and industry requirements.",d2="Integration And Collaboration",d3="We seamlessly integrate with your existing cloud platforms and collaborate with your internal teams, fostering a cooperative environment for efficient observability management.",d4="Why CodeElan",d5=u.W,d6="images/Logo-Inverted.jpg",d7="Testimonials",d8="We are very glad to get client review.",d9=u.D,e0="phone-image.png",e1=u.N,e2="Help Desk 24h/7",e3="8484914105",e4=t.w
+I(e5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5=this,a6=null,a7="Managed Observability Services",a8="Arial",a9="Achieving deep visibility into your cloud infrastructure and applications is crucial for effective performance monitoring, issue detection, and troubleshooting. Our Managed Observability service combines state-of-the-art monitoring tools and expert analysis to provide comprehensive insights into your cloud environment. We proactively monitor key metrics, detect anomalies, and generate actionable insights to optimize performance, improve efficiency, and ensure a seamless user experience.",b0="Schedule a Quick Call",b1="images/5pillar.jpg",b2="Needs Assessment",b3="We conduct an in-depth analysis of your infrastructure, applications, and specific business requirements to understand your observability needs and define the appropriate monitoring and logging strategies.",b4="Tool Selection And Configuration",b5="Based on the assessment, we select and configure the best-suited observability tools and platforms, tailored to your environment and objectives, ensuring seamless integration and data collection.",b6="Monitoring Implementation",b7="We deploy monitoring agents, configure alerts and thresholds, and set up data collection mechanisms to gather real-time data on various metrics, logs, and events across your cloud infrastructure.",b8="Continuous Monitoring And Analysis",b9="Our team continuously monitors the collected data, performs analysis, and responds to alerts, applying their expertise to identify and address any performance issues or potential bottlenecks.",c0="images/cloud-services.png",c1="EXCLUSIVE ",c2="FEATURES",c3="Skilled Observability Experts",c4="Our team consists of highly skilled observability experts with extensive experience in managing and optimizing cloud infrastructure, ensuring accurate monitoring and effective incident management.",c5="images/exclusiveFeatures.png",c6="Proactive Issue Resolution",c7="We adopt a proactive approach to identify and resolve issues before they impact your operations, minimizing downtime and maximizing system performance",c8="Cost Optimization",c9=u.z,d0="Scalable And Customizable Solutions",d1="Our managed observability services are scalable to accommodate your evolving needs, and we tailor our solutions to align with your specific infrastructure, applications, and industry requirements.",d2="Integration And Collaboration",d3="We seamlessly integrate with your existing cloud platforms and collaborate with your internal teams, fostering a cooperative environment for efficient observability management.",d4="Why CodeElan",d5=u.W,d6="images/Logo-Inverted.jpg",d7="Testimonials",d8="We are very glad to get client review.",d9=u.D,e0="images/phone-image.png",e1=u.N,e2="Help Desk 24h/7",e3="8484914105",e4=t.w
 a5.d=A.f(e5,a6,e4).w.a.b
 a5.e=A.f(e5,a6,e4).w.a.a
 a5.f=A.f(e5,a6,e4).w.a.geM()
@@ -40806,7 +40806,7 @@ o=A.m(r,A.u(A.a([A.i(p.b,r,r,r,A.d(r,r,o,r,r,r,r,r,"Arial",r,r,A.j(a)||A.f(a,r,t
 p=A.a([0.55,0.55],t.n)
 p=A.m(B.a2,r,B.d,r,r,new A.ad(r,r,r,r,r,new A.ek(B.dl,B.bJ,B.bg,A.a([A.U(235,235,235,1),B.e],t.O),p,r),B.A),r,20,r,r,r,r,20)
 s=n.d
-return A.m(r,A.u(A.a([o,p,A.c(r,s*0.01,r),A.R(A.a([A.eg(B.e,new A.af(B.aH,A.eh(A.m(r,A.a3("Male-User.png",B.bs,r,r,r,s*0.1,r,r),B.d,B.bu,r,r,r,r,r,r,r,r,r)),r),40),A.c(r,r,n.e*0.015),A.u(A.a([A.i(B.a7[b].c,r,r,r,A.d(r,r,r,r,r,r,r,r,r,r,r,20,r,r,B.r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.c(r,n.d*0.005,r),A.i(B.a7[b].d,r,r,r,A.d(r,r,r,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],m),B.o,r,B.j,B.c)],m),B.i,B.j,B.c)],m),B.o,r,B.j,B.c),B.d,q,r,r,r,r,r,new A.x(10,10,10,10),r,r,r)},
+return A.m(r,A.u(A.a([o,p,A.c(r,s*0.01,r),A.R(A.a([A.eg(B.e,new A.af(B.aH,A.eh(A.m(r,A.a3("images/Male-User.png",B.bs,r,r,r,s*0.1,r,r),B.d,B.bu,r,r,r,r,r,r,r,r,r)),r),40),A.c(r,r,n.e*0.015),A.u(A.a([A.i(B.a7[b].c,r,r,r,A.d(r,r,r,r,r,r,r,r,r,r,r,20,r,r,B.r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.c(r,n.d*0.005,r),A.i(B.a7[b].d,r,r,r,A.d(r,r,r,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],m),B.o,r,B.j,B.c)],m),B.i,B.j,B.c)],m),B.o,r,B.j,B.c),B.d,q,r,r,r,r,r,new A.x(10,10,10,10),r,r,r)},
 $S:20}
 A.agZ.prototype={
 $0(){var s=null,r=this.a
@@ -40843,7 +40843,7 @@ m=b.e
 l=t.p
 m=A.bY(B.h,A.a([q,A.u(A.a([A.R(A.a([r,p,o,n,A.c(A.b_(B.e,1),a,m*0.1)],l),B.i,B.m,B.c),A.c(a,b.d*0.05,a),A.i("Proven guidance and best practices that help you confidently adopt the cloud and achieve business outcomes.",a,a,a,A.d(a,a,B.e,a,a,a,a,a,a,a,a,18,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a,a)],l),B.i,a,B.j,B.c)],l),B.M,B.a_)
 n=b.zz()
-o=A.a3("CodeElan_Adopt_cloud_Process.gif",B.h,a,a,a,a,a,a)
+o=A.a3("images/CodeElan_Adopt_cloud_Process.gif",B.h,a,a,a,a,a,a)
 p=b.abn()
 r=b.abQ()
 q=b.agi()
@@ -40921,7 +40921,7 @@ p=n.c
 p.toString
 p=new A.af(B.aD,A.u(A.a([g,s,r,q,n.cS(p,i,new A.abr(n)),A.a3(h,B.h,m,m,m,n.d*0.8,m,m)],t.p),B.i,m,B.j,B.c),m)
 g=p}return g},
-abn(){var s,r,q,p,o,n,m,l=this,k=null,j="Build_cloud_foundation.png",i="Build Cloud Foundation",h="Arial",g=u.i,f="Learn More",e=l.c
+abn(){var s,r,q,p,o,n,m,l=this,k=null,j="images/Build_cloud_foundation.png",i="Build Cloud Foundation",h="Arial",g=u.i,f="Learn More",e=l.c
 e.toString
 if(!A.j(e)){e=l.c
 e.toString
@@ -40971,7 +40971,7 @@ n=l.c
 n.toString
 n=new A.af(B.aD,A.u(A.a([e,s,r,q,p,o,l.cS(n,f,new A.aby(l))],t.p),B.o,k,B.j,B.c),k)
 e=n}return A.m(k,e,B.d,B.aU,k,k,k,k,k,new A.x(0,20,0,20),k,k,k)},
-abQ(){var s,r,q,p,o,n=this,m=null,l="Cloud Migration",k="Arial",j=u.C,i="Learn More",h="Cloud-migration.png",g=n.c
+abQ(){var s,r,q,p,o,n=this,m=null,l="Cloud Migration",k="Arial",j=u.C,i="Learn More",h="images/Cloud-migration.png",g=n.c
 g.toString
 if(!A.j(g)){g=n.c
 g.toString
@@ -41016,7 +41016,7 @@ p=n.c
 p.toString
 p=new A.af(B.aD,A.u(A.a([g,s,r,q,n.cS(p,i,new A.abC(n))],t.p),B.i,m,B.j,B.c),m)
 g=p}return A.m(m,g,B.d,m,m,m,m,m,m,new A.x(0,30,0,30),m,m,m)},
-agi(){var s,r,q,p,o,n,m,l=this,k=null,j="kubernet.png",i="Kubernetes Adoption",h="Arial",g="We simplify application deployment and management using Kubernetes, the leading container orchestration platform. Our custom container platforms optimize infrastructure for scalability, fault tolerance, and high availability, ensuring your microservices meet your business demands effectively.",f="Learn More",e=l.c
+agi(){var s,r,q,p,o,n,m,l=this,k=null,j="images/kubernet.png",i="Kubernetes Adoption",h="Arial",g="We simplify application deployment and management using Kubernetes, the leading container orchestration platform. Our custom container platforms optimize infrastructure for scalability, fault tolerance, and high availability, ensuring your microservices meet your business demands effectively.",f="Learn More",e=l.c
 e.toString
 if(!A.j(e)){e=l.c
 e.toString
@@ -41175,7 +41175,7 @@ h=A.c(k,h.d*0.001,k)
 n=B.a7[b]
 m=A.U(79,79,103,1)
 l=t.p
-return A.m(k,A.bY(B.aZ,A.a([A.cT(k,A.m(k,A.dq(new A.af(g,A.u(A.a([s,q,r,p,o,h,A.i(n.d,k,k,k,A.d(k,k,m,k,k,k,k,k,j,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?16:10,k,k,k,k,k,!0,k,0.5,k,k,k,k,k,k),B.T,k)],l),B.i,k,B.j,B.c),k),k,B.e,k,k,k,k),B.d,k,k,k,k,k,k,B.bw,k,k,i),k,k,k,k,k,k),A.c(k,20,k),A.cT(k,A.a3("get-quote.png",B.h,B.bu,k,k,60,k,k),k,k,50,k,-10,k)],l),B.M,B.a_),B.d,k,k,k,k,k,k,k,k,k,k)},
+return A.m(k,A.bY(B.aZ,A.a([A.cT(k,A.m(k,A.dq(new A.af(g,A.u(A.a([s,q,r,p,o,h,A.i(n.d,k,k,k,A.d(k,k,m,k,k,k,k,k,j,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?16:10,k,k,k,k,k,!0,k,0.5,k,k,k,k,k,k),B.T,k)],l),B.i,k,B.j,B.c),k),k,B.e,k,k,k,k),B.d,k,k,k,k,k,k,B.bw,k,k,i),k,k,k,k,k,k),A.c(k,20,k),A.cT(k,A.a3("images/get-quote.png",B.h,B.bu,k,k,60,k,k),k,k,50,k,-10,k)],l),B.M,B.a_),B.d,k,k,k,k,k,k,k,k,k,k)},
 $S:20}
 A.abu.prototype={
 $1(a){if(a.n(0,B.F))return B.e
@@ -41199,7 +41199,7 @@ i.f=A.f(a,h,c).w.a.geM()
 s=A.j(a)||A.f(a,h,c).w.a.a>=2600?new A.eb(h):A.c(h,h,h)
 r=i.e
 q=t.p
-r=A.bY(B.h,A.a([A.a3("service-BG.png",B.h,A.U(3,28,5,1),B.e8,B.be,250,h,r),A.i("Service",h,h,h,A.d(h,h,B.e,h,h,h,h,h,h,h,h,40,h,h,B.av,h,h,!0,h,h,h,h,h,h,h,h),h,h)],q),B.M,B.a_)
+r=A.bY(B.h,A.a([A.a3("images/service-BG.png",B.h,A.U(3,28,5,1),B.e8,B.be,250,h,r),A.i("Service",h,h,h,A.d(h,h,B.e,h,h,h,h,h,h,h,h,40,h,h,B.av,h,h,!0,h,h,h,h,h,h,h,h),h,h)],q),B.M,B.a_)
 p=i.c
 p.toString
 if(!A.j(p)){p=i.c
@@ -41251,7 +41251,7 @@ if(!A.j(n)){n=i.c
 n.toString
 n=A.f(n,h,c).w.a.a>=2600}else n=!0
 m=i.d
-l=A.a3("Services-home.png",B.h,h,h,h,n?m*0.8:m*0.4,h,h)
+l=A.a3("images/Services-home.png",B.h,h,h,h,n?m*0.8:m*0.4,h,h)
 m=A.a3("Service-home1.png",B.h,h,h,h,m*0.6,h,h)
 n=i.c
 n.toString
@@ -41486,7 +41486,7 @@ $S:0}
 A.jL.prototype={
 a4(){return new A.LC(B.z)}}
 A.LC.prototype={
-I(c3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8=this,b9=null,c0="Arial",c1="about-gap.png",c2=t.w
+I(c3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8=this,b9=null,c0="Arial",c1="images/about-gap.png",c2=t.w
 b8.d=A.f(c3,b9,c2).w.a.b
 b8.e=A.f(c3,b9,c2).w.a.a
 b8.f=A.f(c3,b9,c2).w.a.geM()
@@ -41529,7 +41529,7 @@ b=A.i("CodeElan Technology, founded in 2016 is a leading IT software development
 a=b8.d
 a0=A.c(b9,a*0.08,b9)
 a=A.i("Why CodeElan Technology?",b9,b9,b9,A.d(b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,25,b9,b9,B.r,b9,a*0.002,!0,b9,1,b9,b9,b9,b9,b9,b9),b9,b9)
-a1=A.a3("Why-About-us-banner.png",B.h,b9,b9,b9,b9,b9,b9)
+a1=A.a3("images/Why-About-us-banner.png",B.h,b9,b9,b9,b9,b9,b9)
 a2=b8.d
 a2=A.u(A.a([m,k,l,j,f,e,d,c,g,h,i,b,a0,a,a1,A.c(b9,a2*0.05,b9),A.i("Our small team with big ideas",b9,b9,b9,A.d(b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,25,b9,b9,B.r,b9,a2*0.002,!0,b9,1,b9,b9,b9,b9,b9,b9),b9,b9),A.i(u.O,b9,b9,b9,A.d(b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,16,b9,b9,b9,b9,b8.d*0.002,!0,b9,1,b9,b9,b9,b9,b9,b9),b9,b9)],r),B.o,b9,B.j,B.c)
 a1=b8.Ev()
@@ -41654,7 +41654,7 @@ l=t.p
 i=A.cT(k,A.m(k,A.dq(new A.af(g,A.u(A.a([s,q,r,p,o,h,A.i(n.d,k,k,k,A.d(k,k,m,k,k,k,k,k,j,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?16:12,k,k,k,k,k,!0,k,0.5,k,k,k,k,k,k),B.T,k)],l),B.i,k,B.j,B.c),k),k,B.e,3,k,k,B.IF),B.d,k,k,k,k,k,k,B.bw,k,k,i),k,k,k,k,k,k)
 m=A.c(k,20,k)
 h=A.j(a)||A.f(a,k,t.w).w.a.a>=2600?380:100
-return A.m(k,A.bY(B.h,A.a([i,m,A.cT(k,A.a3("get-quote.png",B.h,B.l,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?60:50,k,k),k,k,h,k,-10,k)],l),B.M,B.a_),B.d,k,k,k,k,k,k,k,k,k,k)},
+return A.m(k,A.bY(B.h,A.a([i,m,A.cT(k,A.a3("images/get-quote.png",B.h,B.l,k,k,A.j(a)||A.f(a,k,t.w).w.a.a>=2600?60:50,k,k),k,k,h,k,-10,k)],l),B.M,B.a_),B.d,k,k,k,k,k,k,k,k,k,k)},
 $S:20}
 A.abj.prototype={
 $2(a,b){var s=null
@@ -42320,7 +42320,7 @@ A.ahj.prototype={
 $1(a){return new A.dN(null)},
 $S:19}
 A.ei.prototype={
-a4(){return new A.Ms(new A.VJ(new A.bU(new A.aL($.aE,t.wC),t.Fe)),A.a(["assets/ACMEMinds-logo.png","assets/Idea-bridge-Logo.png","assets/LoadShare-Logo.png","assets/ParentPayGroup.png","assets/PlusInnovation-Logo.png","assets/SunPower-Logo.png","assets/Unique-Solutions.png","assets/VoniGo-Logo.png"],t.s),B.z)}}
+a4(){return new A.Ms(new A.VJ(new A.bU(new A.aL($.aE,t.wC),t.Fe)),A.a(["images/ACMEMinds-logo.png","images/Idea-bridge-Logo.png","images/LoadShare-Logo.png","images/ParentPayGroup.png","images/PlusInnovation-Logo.png","images/SunPower-Logo.png","images/Unique-Solutions.png","images/VoniGo-Logo.png"],t.s),B.z)}}
 A.Ms.prototype={
 I(a){var s=null
 return A.m(s,this.abU(a),B.d,B.e,s,s,s,s,s,s,s,s,s)},
