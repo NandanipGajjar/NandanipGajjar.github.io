@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bed917ea.css",
-    "main.js": "/static/js/main.589bea26.js",
+    "main.css": "/static/css/main.42183433.css",
+    "main.js": "/static/js/main.beee23a5.js",
     "static/js/787.2ea5e436.chunk.js": "/static/js/787.2ea5e436.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.d95c91e88cc28d3305af.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.2.96": "/static/media/materialdesignicons-webfont.0207b94ccbbd5be9a50b.ttf",
@@ -44,15 +44,14 @@
     "static/media/ce-logo.png": "/static/media/ce-logo.54b97eebc9407d6ef43e.png",
     "static/media/01.jpg": "/static/media/01.5fa6455abf6536cb1885.jpg",
     "static/media/RajeshImage.jpg": "/static/media/RajeshImage.7805b340069d8895d8b5.jpg",
-    "static/media/Idea-bridge-Logo.png": "/static/media/Idea-bridge-Logo.86da64b6ccbb1917059c.png",
-    "static/media/PlusInnovation-Logo.png": "/static/media/PlusInnovation-Logo.79e65be326af1f103256.png",
+    "static/media/website_icon.svg": "/static/media/website_icon.4c99f9e86ae872052ca5f7e16026707b.svg",
     "index.html": "/index.html",
-    "main.bed917ea.css.map": "/static/css/main.bed917ea.css.map",
-    "main.589bea26.js.map": "/static/js/main.589bea26.js.map",
+    "main.42183433.css.map": "/static/css/main.42183433.css.map",
+    "main.beee23a5.js.map": "/static/js/main.beee23a5.js.map",
     "787.2ea5e436.chunk.js.map": "/static/js/787.2ea5e436.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bed917ea.css",
-    "static/js/main.589bea26.js"
+    "static/css/main.42183433.css",
+    "static/js/main.beee23a5.js"
   ]
 }
