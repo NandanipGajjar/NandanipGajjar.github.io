@@ -7,7 +7,7 @@ body {
 }
 
 .layout_padding {
-  padding: 90px 0;
+  padding: 40px 0;
 }
 
 .layout_padding2 {
@@ -55,7 +55,7 @@ body {
   position: relative;
   font-weight: bold;
   margin-bottom: 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .heading_container p {
@@ -131,7 +131,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background-color: #178066;
+  background-color: #ffffff;
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -139,7 +139,7 @@ a:focus {
 }
 
 .header_section {
-  padding: 15px 0;
+  padding: 1px 0;
 }
 
 .header_section .container-fluid {
@@ -164,7 +164,8 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 5px 20px;
-  color: #ffffff;
+  color: #094459;  font-weight: bold;
+
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
@@ -757,17 +758,17 @@ a:focus {
 .footer_section {
   background: #178066;
   color: #ffffff;
-  padding: 60px 0 15px 0;
+  padding: 20px 0 0 0;
   position: relative;
 }
 
 .footer_section h4 {
   font-weight: 600;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .footer_section .footer_col {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .footer_section .footer_contact .contact_link_box {
@@ -897,7 +898,7 @@ a:focus {
 
 .footer_section .footer-info p {
   color: #ffffff;
-  padding: 25px 0;
+  padding: 2px 0;
   margin: 0;
 }
 
